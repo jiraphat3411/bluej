@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Passenger
+comment1.params=bf
+comment1.target=void\ pressButton(ButtonFloor)
+comment2.params=button
+comment2.target=void\ pressButton(ButtonElevator)
+numComments=3

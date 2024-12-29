@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ElevatorGate
+comment1.params=
+comment1.target=ElevatorGate()
+comment2.params=status
+comment2.target=void\ setStatus(boolean)
+comment3.params=
+comment3.target=boolean\ getStatus()
+numComments=4

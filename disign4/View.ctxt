@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=View
+comment1.params=Snacks\ Drinks\ Goods
+comment1.target=void\ printStock(ProductGroup,\ ProductGroup,\ ProductGroup)
+comment2.params=BuyList\ AmountList
+comment2.target=void\ printBasket(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=money
+comment3.target=void\ printMoney(int)
+numComments=4

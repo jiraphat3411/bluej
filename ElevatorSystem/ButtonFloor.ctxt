@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ButtonFloor
+comment1.params=floor\ direction
+comment1.target=ButtonFloor(int,\ java.lang.String)
+comment2.params=floor
+comment2.target=void\ sendFloor(int)
+comment3.params=c
+comment3.target=void\ setController(Controller)
+comment4.params=
+comment4.target=int\ getFloor()
+numComments=5
