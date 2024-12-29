@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Toothpaste
+comment1.params=name\ price
+comment1.target=Toothpaste(java.lang.String,\ int)
+comment2.params=name\ price\ amount
+comment2.target=Toothpaste(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getPrice()
+comment5.params=
+comment5.target=int\ getAmount()
+comment6.params=num
+comment6.target=void\ reduceAmount(int)
+comment7.params=num
+comment7.target=void\ addAmount(int)
+comment8.params=
+comment8.target=void\ print()
+numComments=9

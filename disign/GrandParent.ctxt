@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GrandParent
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment3.params=name\ lastName
+comment3.target=GrandParent(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=child
+comment5.target=void\ addChild(Person)
+comment6.params=parent
+comment6.target=void\ addParent(Person)
+numComments=7

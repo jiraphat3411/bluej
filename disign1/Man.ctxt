@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Man
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment3.params=name\ lastName
+comment3.target=Man(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=person
+comment5.target=void\ addMember(Person)
+numComments=6
