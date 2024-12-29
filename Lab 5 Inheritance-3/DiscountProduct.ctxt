@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=id\ name\ price\ DiscountRate
+comment0.target=DiscountProduct(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getDiscountRate()
+numComments=2

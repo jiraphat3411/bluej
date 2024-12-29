@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Manager()
+comment1.params=p
+comment1.target=void\ add(Product)
+comment2.params=p\ amount
+comment2.target=void\ sell(Product,\ int)
+numComments=3
